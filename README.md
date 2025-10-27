@@ -1,2 +1,13 @@
-# DemoWalkAlone
-Jogo 3D de parkour desenvolvido em Unreal Engine. Utilizou template para personagens e edifícios, mas toda a movimentação, design de níveis e configuração dos power-ups de salto foram implementados por mim.
+# Walk Alone – Demo
+
+Demo de um jogo 3D de parkour desenvolvido em Unreal Engine.
+
+**Contribuições próprias:**
+- Movimentação de personagens;
+- Design e configuração dos níveis;
+- Implementação e configuração dos power-ups de salto.
+
+**Recursos aproveitados:**
+- Template inicial para personagens e edifícios. (Biblioteca Epic Games UE4)
+
+O objetivo do projeto foi criar uma demo funcional, com mecânicas de jogo fluidas e interativas, utilizando programação em C# dentro da Unreal Engine.
